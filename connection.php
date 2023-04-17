@@ -34,6 +34,16 @@
         tr:nth-child(even) {
             background-color: white;
         }
+        
+        #btn {
+            margin-top: 20px;
+            border: 0 solid #2ebebc;
+            border-radius: 20px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            padding-left: 30px;
+            padding-right: 30px;
+        }
     </style>
 </head>
 
